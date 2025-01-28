@@ -8,10 +8,10 @@ import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 import "./infobox.css";
 
 export default function InfoBox({ info }) {
-    const INIT_URL = "./images/init.jpg";
-    const HOT_URL="./images/hot.avif"
-    const COLD_URL="./images/cold.avif"
-    const RAIN_URL="./images/rain.avif"
+    const INIT_URL = "./images/INIT.jpeg";
+    const HOT_URL="./images/HOT.jpeg"
+    const COLD_URL="./images/COLD.jpeg"
+    const RAIN_URL="./images/RAIN.jpeg"
     return (
         <div className="InfoBox">
             <div className="card">
